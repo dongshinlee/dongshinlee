@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br><br>
 
 ## 🌐 Contact
-- ✉️ Email: your.email@example.com
+- ✉️ Email: leened@naver.com
 
 
 
