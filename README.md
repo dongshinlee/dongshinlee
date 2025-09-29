@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br><br>
 
 ## 📊 GitHub Stats
-![Dongshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongshinlee&show_icons=true&theme=tokyonight)
+![Dongshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongshinlee&show_icons=true&theme=graywhite)
 
 
 ## 🌐 Contact
