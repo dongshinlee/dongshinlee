@@ -39,6 +39,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <br><br>
 
+## 📊 GitHub Stats
+![Dongshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongshinlee&show_icons=true&theme=tokyonight)
+
+
 ## 🌐 Contact
 - ✉️ Email: leened@naver.com
 
